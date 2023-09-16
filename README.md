@@ -26,7 +26,7 @@ To get started with this project and use it for learning purposes, follow these 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/glassmorphism-analog-clock.git
+   git clone https://github.com/Enigmaticpravin/Glassmorphism-Analog-Clock.git
    cd glassmorphism-analog-clock
 
 2. **Open index.html in Your Web Browser:**
